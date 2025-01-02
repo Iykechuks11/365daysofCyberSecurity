@@ -15,7 +15,7 @@ This challenge is designed to help you gain foundational and advanced skills in 
 ### **Focus:** Networking, Linux, and Cybersecurity Basics
 
 #### **Week 1:**
-- [ ] Day 1-2: Learn basic networking (OSI model, IP addresses, DNS). *(Resource: NetworkChuck, Cybrary)*
+- [x] Day 1-2: Learn basic networking (OSI model, IP addresses, DNS). *(Resource: NetworkChuck, Cybrary)*
 - [ ] Day 3-4: Set up a Linux virtual machine (Ubuntu or Kali Linux).
 - [ ] Day 5-7: Learn Linux commands (file system, permissions, networking). *(Resource: OverTheWire: Bandit)*
 
